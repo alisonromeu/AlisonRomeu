@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, how are you ? Welcome, my name is Alison 👋
 
 <!--
 **alisonromeu/AlisonRomeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
