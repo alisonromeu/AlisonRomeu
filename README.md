@@ -1,11 +1,17 @@
-<h2>👋 Olá, tudo bem ? Muito prazer, meu nome é Alison Romeu, seja bem-vindo ao meu Github</h2><br>
+<h2>👋 Olá, tudo bem ?<br>
+Muito prazer, meu nome é Alison Romeu este é meu Github</h2><br>
 
+<h2>Tenho conhecimento em:</h2>
+<h3>- HTML,</h3>
+<h3>- CSS,</h3>
+<h3>- Git,</h3>
+<h3>- MySQL,</h3>
+<h3>- Javascript,</h3>
+<h3>- Typescript,</h3>
+<h3>- Next JS,</h3>
+<h3>- React JS (Hooks, Styled-Component),</h3>
+<h3>- Angular JS</h3>
 
-
-<h2>Conhecimento em:</h2>
-<h3>HTML, CSS, Javascript, Typescript, SASS, Bootstrap, Styled-Components.</h3>
-
-<h3>Estudando Front-end: React e Angular.</h3>
 
 <h3>Inglês Intermediário.</h3>
 
