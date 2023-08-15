@@ -1,16 +1,15 @@
-<h2>👋 Olá, tudo bem ?<br>
-Muito prazer, meu nome é Alison Romeu este é meu Github</h2><br>
-
-<h3>Conhecimento em:</h3>
-<h3>- HTML, CSS, SASS</h3>
-<h3>- Git</h3>
-<h3>- MySQL</h3>
+<h3>- HTML, CSS</h3>
 <h3>- Javascript</h3>
 <h3>- Typescript</h3>
+<h3>- React</h3>
+<h3>- React Native</h3>
+<h3>- Styled-Components</h3>
+<h3>- Angular</h3>
 <h3>- Next JS</h3>
-<h3>- ReactJS (Hooks, Styled-Component)</h3>
-<h3>- Angular JS</h3>
+<h3>- C</h3>
+<h3>- MySQL</h3>
 
-<h3># Inglês Intermediário.</h3>
+<h3>Intermediary English</h3>
 
-<h3>📫 How to reach me: @alison.romeu</h3>
+<h3>How to reach me: @alison.romeu</h3>
+<h3>Linkedin: https://www.linkedin.com/in/alisonromeu/</h3>
