@@ -1,8 +1,9 @@
-<h3>Developer Junior - Linx / Stone Co </h3>
-<h3>Angular</h3>
-<h3>Javascript</h3>
-<h3>Typescript</h3>
-<h3>Azure</h3>
+<h1>Developer Junior - Linx / Stone Co </h1>
+
+<h3>- Angular</h3>
+<h3>- Javascript</h3>
+<h3>- Typescript</h3>
+<h3>- Azure</h3>
 
 <h3>Intermediary English</h3>
 
